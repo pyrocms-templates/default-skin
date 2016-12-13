@@ -1,0 +1,19 @@
+{
+    "name": "{{vendor|lower}}/{{slug|lower}}-skin",
+    "description": "{{description}}",
+    "type": "pyrocms-theme-skin",
+    "keywords": [
+        "websemantics",
+        "pyrocms",
+        "theme",
+        "skin"
+    ],
+    "require": {
+        "websemantics/pyrocms-theme": "*"
+    },
+    "autoload": {
+        "psr-4": {
+          "{{vendor|studly_case}}\\{{slug|studly_case}}Skin\\": "src/"
+        }
+    }
+}

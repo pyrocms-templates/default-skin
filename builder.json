@@ -1,0 +1,28 @@
+{
+  "schema": {
+    "vendor": {
+      "type": "string",
+      "required": true,
+      "label": "Vendor name",
+      "default": "websemantics"
+    },
+    "slug": {
+      "type": "string",
+      "required": true,
+      "label": "Skin slug",
+      "default": "generic"
+    },
+    "description": {
+      "type": "string",
+      "required": false,
+      "label": "Skin description",
+      "default": "Builder default skin template"
+    },
+    "docblock": {
+      "type": "string",
+      "required": false,
+      "label": "DocBlock",
+      "default": " *"
+    }
+  }
+}
