@@ -24,13 +24,13 @@
 composer require {{vendor}}/{{ slug }}-skin
 ```
 
-2- Change the value of `PYROCMS_SKIN` in the project `.env` file as follows,  
+2- Set the value of `PYROCMS_SKIN` in the project `.env` file as follows,  
 
 ```
 PYROCMS_SKIN={{vendor}}.skin.{{ slug }}
 ```
 
-3- Change skin settings from skin config file, `resources/config/skin.php`.
+3- Configure skin from, `resources/config/skin.php`.
 
 ## Resources
 
