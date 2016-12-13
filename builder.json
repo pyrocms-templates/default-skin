@@ -22,8 +22,8 @@
       "type": "string",
       "required": false,
       "label": "DocBlock",
-      "default": " *
-* @link      http://websemantics.ca
+      "default": " *\
+* @link      http://websemantics.ca\
 * @author    Adnan M.Sagar, Phd. <adnan@websemantics.ca>"
     }
   }
