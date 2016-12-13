@@ -5,7 +5,7 @@ use Anomaly\Streams\Platform\Addon\AddonServiceProvider;
 /**
  * Class {{slug|studly_case}}SkinServiceProvider
  *
-{{docblock}}
+{{docblock|escape}}
  * @package   {{vendor|studly_case}}\{{slug|studly_case}}Skin
  */
 
