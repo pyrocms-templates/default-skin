@@ -4,10 +4,10 @@ return [
 
   /*
   |--------------------------------------------------------------------------
-  | Skin import
+  | Style import
   |--------------------------------------------------------------------------
   |
-  | PyroCMS Plus Theme skin import file.
+  | Relative location of the main skin import file, `skin.scss`.
   |
   */
   'import' => __DIR__ . '/../scss/skin.scss',
@@ -17,7 +17,7 @@ return [
   | Preview image
   |--------------------------------------------------------------------------
   |
-  | Screenshot of the skin.
+  | Screenshot (1920w × 1080h) of Admin using the skin.
   |
   */
   'preview' => __DIR__ . '/../img/preview.png'
