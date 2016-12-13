@@ -30,12 +30,12 @@ composer require {{vendor}}/{{ slug }}-skin
 PYROCMS_SKIN={{vendor}}.skin.{{ slug }}
 ```
 
-3- Configure skin from, `resources/config/skin.php`.
+3- Change skin settings from skin config file, `resources/config/skin.php`.
 
 ## Resources
 
 - [Builder extension](https://github.com/websemantics/builder-extension), Addons scaffolder for maximum coding pleasure.
-- [PyroCMS Plus Theme](https://github.com/websemantics/pyrocms-theme), Skinnable, responsive and highly customizable Admin theme for [PyroCMS 3](http://pyrocms.com/).
+- [PyroCMS Plus Theme](https://github.com/websemantics/pyrocms-theme), Skinnable, responsive and highly customizable [PyroCMS 3](http://pyrocms.com/) Admin theme.
 
 ## License
 
