@@ -16,6 +16,9 @@
 ```
 > {{description}}
 
+| ![](https://github.com/{{vendor}}/{{slug}}-skin/raw/master/resources/img/{{slug}}.png) |
+|---|
+
 ## Install
 
 1- Use `composer ` to install,
