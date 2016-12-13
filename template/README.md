@@ -23,7 +23,7 @@
 composer require {{vendor}}/{{ slug }}-skin
 ```
 
-2- Change `PYROCMS_SKIN` in `.env` file as follows,  
+2- Change value of `PYROCMS_SKIN` in your project `.env` file as follows,  
 
 ```
 PYROCMS_SKIN={{vendor}}.skin.{{ slug }}
